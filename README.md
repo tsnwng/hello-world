@@ -1,2 +1,3 @@
 # hello-world
-first repository
+
+Hello, here is the first hell-world!
