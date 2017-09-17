@@ -1,3 +1,3 @@
 # hello-world
 
-Hello, here is the first hell-world!
+Hello, here is the first hello-world!
